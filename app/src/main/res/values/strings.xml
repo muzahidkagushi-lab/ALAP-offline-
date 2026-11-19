@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">আলাপ</string>
+    <string name="mesh_service_channel_name">আলাপ মেশ সার্ভিস</string>
+    <string name="mesh_service_notification_title">আলাপ মেশ সক্রিয়</string>
+</resources>

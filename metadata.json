@@ -1,0 +1,6 @@
+{
+  "name": "ALAP (আলাপ)",
+  "description": "Offline Mesh Communication App using Bluetooth LE, Wi-Fi Direct, and Multi-Hop Relay",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
